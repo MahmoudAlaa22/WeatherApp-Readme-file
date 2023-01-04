@@ -3,6 +3,8 @@
 
 Application to display the weather anywhere in the world🌍
 
+#### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_stateabrmanagement-api-requests-activity-6978941210748989440-Kffd?utm_source=share&utm_medium=member_desktop)
+
 ![Logo](https://user-images.githubusercontent.com/60518534/210525117-464756de-6078-432e-99db-daf5aedb994a.png)
 
 
