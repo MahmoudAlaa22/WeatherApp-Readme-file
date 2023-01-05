@@ -6,7 +6,7 @@ Application to display the weather anywhere in the world🌍
 #### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_stateabrmanagement-api-requests-activity-6978941210748989440-Kffd?utm_source=share&utm_medium=member_desktop)
 
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_ecommerce_app/total?color=green)
+## Download App 
 <a href="https://github.com/MahmoudAlaa22/WeatherApp-Readme-file/releases/download/v1/weather.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ![Logo](https://user-images.githubusercontent.com/60518534/210525117-464756de-6078-432e-99db-daf5aedb994a.png)
