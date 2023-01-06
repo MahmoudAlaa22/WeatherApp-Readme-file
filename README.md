@@ -28,12 +28,18 @@ Application to display the weather anywhere in the world🌍
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/60518534/185890789-0b56c57c-16a7-48a0-9ebf-bc8dc4f26aaa.jpg)|![](https://user-images.githubusercontent.com/60518534/185890821-6a93164e-1f21-46e3-9399-633d9046a295.jpg)|![](https://user-images.githubusercontent.com/60518534/185890855-e053a2f6-bf8c-4c53-a647-e9dedb1e63c9.jpg)
 
-## Features
+## ⚙ Tools Used
+- Flutter 
+- Dart
+- [OpenWeather site](https://openweathermap.org/api)
+- lottie
 
-- Beautiful UI.
-- Know the temperature of your location.
-- Know the percentage of clouds, humidity, and wind.
-- you can search for any city name you want to know its temperature.
+
+## ✨ Features
+✔ Beautiful UI.\
+✔ Know the temperature of your location.\
+✔ Know the percentage of clouds, humidity, and wind.\
+✔ you can search for any city name you want to know its temperature.
 
 ## API Reference
 
