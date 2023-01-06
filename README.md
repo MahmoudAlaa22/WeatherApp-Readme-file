@@ -3,13 +3,14 @@
 
 Application to display the weather anywhere in the world🌍
 
+![Weather App](https://user-images.githubusercontent.com/60518534/211040412-78f32150-2554-4b97-9b82-84b3d203c280.gif)
+
+
 #### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_stateabrmanagement-api-requests-activity-6978941210748989440-Kffd?utm_source=share&utm_medium=member_desktop)
 
 
 ## Download App 
 <a href="https://github.com/MahmoudAlaa22/WeatherApp-Readme-file/releases/download/v1/weather.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-
-![Logo](https://user-images.githubusercontent.com/60518534/210525117-464756de-6078-432e-99db-daf5aedb994a.png)
 
 
 ## Screenshots
